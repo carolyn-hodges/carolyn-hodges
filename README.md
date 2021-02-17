@@ -1,4 +1,7 @@
-### Hi there 👋
+### About me
+
+I'm a User Interface Engineer with full-stack experience in product and UI/UX design, frontend development and systems engineering.
+Highly motivated, strong communicator capable of working independently and in team environments to deliver quality work on schedule.
 
 <!--
 **carolyn-hodges/carolyn-hodges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
