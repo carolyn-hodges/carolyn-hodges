@@ -3,7 +3,7 @@
 I'm a User Interface Engineer with full-stack experience in product and UI/UX design, frontend development and systems engineering.
 Highly motivated, strong communicator capable of working independently and in team environments to deliver quality work on schedule.
 
-Feel free to follow me on [Twitter](https://twitter.com/MsCarolynHodges), [Instagram](https://www.instagram.com/mshodgescarolyn/) and [Medium](https://medium.com/@carolyn.hodges).
+Feel free to follow me on [Twitter](https://twitter.com/MsCarolynHodges), [Instagram](https://www.instagram.com/mshodgescarolyn/), [LinkedIn](https://www.linkedin.com/in/carolyn-hodges/), and [Medium](https://medium.com/@carolyn.hodges).
 
 <!--
 **carolyn-hodges/carolyn-hodges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
